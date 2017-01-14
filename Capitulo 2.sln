@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimetro poligono", "Perimetro poligono\Perimetro poligono.csproj", "{ADC3ECF0-8DE8-4C88-842F-46AF10881130}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimetro Poligono m", "Perimetro Poligono m\Perimetro Poligono m.csproj", "{BC3C326E-EF62-4FDE-AD4C-8DFE3E34DD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grados R", "Grados\Grados R.csproj", "{8C4CF2FC-4457-4FFC-8557-889868319FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grados c", "Grados c\Grados c.csproj", "{8F851A31-2818-4D51-A32D-8912ED705F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinero Convertir", "Dinero Convertir\Dinero Convertir.csproj", "{40C13728-3D23-4DF9-BD69-1E7DA847B0D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADC3ECF0-8DE8-4C88-842F-46AF10881130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADC3ECF0-8DE8-4C88-842F-46AF10881130}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADC3ECF0-8DE8-4C88-842F-46AF10881130}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADC3ECF0-8DE8-4C88-842F-46AF10881130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3C326E-EF62-4FDE-AD4C-8DFE3E34DD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3C326E-EF62-4FDE-AD4C-8DFE3E34DD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3C326E-EF62-4FDE-AD4C-8DFE3E34DD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3C326E-EF62-4FDE-AD4C-8DFE3E34DD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4CF2FC-4457-4FFC-8557-889868319FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4CF2FC-4457-4FFC-8557-889868319FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4CF2FC-4457-4FFC-8557-889868319FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4CF2FC-4457-4FFC-8557-889868319FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F851A31-2818-4D51-A32D-8912ED705F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F851A31-2818-4D51-A32D-8912ED705F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F851A31-2818-4D51-A32D-8912ED705F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F851A31-2818-4D51-A32D-8912ED705F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C13728-3D23-4DF9-BD69-1E7DA847B0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C13728-3D23-4DF9-BD69-1E7DA847B0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C13728-3D23-4DF9-BD69-1E7DA847B0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C13728-3D23-4DF9-BD69-1E7DA847B0D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
